@@ -1,8 +1,7 @@
 <template>
   <div class="diceRoller">
     <h1>Dice Roller</h1>
-    <button>Roll the how many dice?</button>
-    <input type="number" />
+    <button>Roll for your rpg!</button>
   </div>
 </template>
 
