@@ -1,7 +1,7 @@
 <template>
   <div class="diceRoller">
     <h1>Dice Roller</h1>
-    <button>Roll for your rpg!</button>
+    <h2>Roll the dice, and score big!</h2>
   </div>
 </template>
 
